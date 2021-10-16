@@ -1,26 +1,85 @@
-body{
-    padding: 0px;
+.jumbotron{
+    background-image: url(/bootstrap-bolierplate/img/dogtreats.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.speakerCardWrapper{
+    padding: 0px 100px; 
+}
+.speakerCard{
+    padding: 60px;
     margin: 0px;
 }
-*{
-    calc(20px+3vw)
-    box-sizing: border-box;
+.speakerCard > *{
+    margin-bottom: 30px;
+}
+.img-thumbnail{
+    border: none;
+    border-radius: 16px;
+}
+.img{
+    height: 200px;
+    width: 100%;
+}
+#img1{
+    background-image: url(/bootstrap-bolierplate/img/airbud.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#img2{
+    background-image: url(/bootstrap-bolierplate/img/Marley.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#img3{
+    background-image: url(/bootstrap-bolierplate/img/Hachi\ 11.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#img4{
+    background-image: url(/bootstrap-bolierplate/img/Balto.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.space{
+    padding: 2rem;
+}
+.container-fluid{
+    padding: 0px !important;
+    margin: 0px !important;
 }
 .row{
-    height: 250px;
+    margin: 0px;
 }
-.left{
-    background-color: blue;
-    height: 250px;
+.shelter{
+    height: 30rem;
 }
-.right{
-    background-color: crimson;
-    height: 250px;
+.p-4{
+    padding: 0px !important;
 }
-.top{
-    background-color: darkcyan;
+.copyright{
+    margin: 0px !important;
 }
-.bottom{
-    height: 250px; 
-    background-color: darkgreen;
+.nav-link{
+    color: black !important;
+}
+.navbar-brand{
+    color: black;
+}
+    .nav-link{
+    color: black !important;
+    }
+.navbar-brand{
+    color: black;
+}
+.nav-link:hover{
+    color: pink !important;
+}
+.navbar-brand:hover{
+    color: pink;
 }
