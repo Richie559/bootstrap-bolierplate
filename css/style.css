@@ -1,5 +1,5 @@
 .jumbotron{
-    background-image: url(/bootstrap-bolierplate/img/dogtreats.jpg);
+    background-image: url(../img/dogtreats.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -23,25 +23,25 @@
     width: 100%;
 }
 #img1{
-    background-image: url(/bootstrap-bolierplate/img/airbud.jpg);
+    background-image: url(../img/airbud.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 #img2{
-    background-image: url(/bootstrap-bolierplate/img/Marley.jpg);
+    background-image: url(../img/Marley.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 #img3{
-    background-image: url(/bootstrap-bolierplate/img/Hachi\ 11.jpg);
+    background-image: url(../img/Hachi\ 11.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 #img4{
-    background-image: url(/bootstrap-bolierplate/img/Balto.png);
+    background-image: url(../img/Balto.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
