@@ -11,40 +11,10 @@
     padding: 60px;
     margin: 0px;
 }
-.speakerCard > *{
-    margin-bottom: 30px;
-}
+
 .img-thumbnail{
-    border: none;
-    border-radius: 16px;
-}
-.img{
-    height: 200px;
-    width: 100%;
-}
-#img1{
-    background-image: url(../img/airbud.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#img2{
-    background-image: url(../img/Marley.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#img3{
-    background-image: url(../img/Hachi\ 11.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#img4{
-    background-image: url(../img/Balto.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
+    border: none !important;
+    width: 200px;
 }
 .space{
     padding: 2rem;
@@ -71,9 +41,9 @@
 .navbar-brand{
     color: black;
 }
-    .nav-link{
+.nav-link{
     color: black !important;
-    }
+}
 .navbar-brand{
     color: black;
 }
